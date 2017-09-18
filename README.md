@@ -1,1 +1,3 @@
-# dom-basics-examples
+# Example: DOM basics
+
+An example of DOM manipulation.
