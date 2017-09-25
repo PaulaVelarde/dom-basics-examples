@@ -16,14 +16,17 @@ div#main-container {
 
   margin-left: auto;
   margin-right: auto;
-  padding: 0;
+  padding-bottom: 40px;
 
-  background-color: rgb(77,92,24);
+  background-color: #1E6F19;
 }
 
 div#header {
   width: 100%;
   text-align: center;
+
+  color: rgb(192, 231, 13);
+  font-size: 14pt;
 }
 
 div#products {
